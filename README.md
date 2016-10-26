@@ -8,3 +8,5 @@
 # Zufügung in github zum Testen von Branches
 
 # Zufügung lokal - wegen Branchtest
+
+# Zufügung lokal - wegen Branchtest - aber in den entfernten masterbranch
