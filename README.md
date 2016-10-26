@@ -6,3 +6,5 @@
 # Manuelle Zufügung im lokalen Bereich zum Zweiten
 
 # Zufügung in github zum Testen von Branches
+
+# Zufügung lokal - wegen Branchtest
